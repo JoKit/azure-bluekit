@@ -124,4 +124,4 @@ To build the App, run
 npm run build
 ```
 
-And you will see the generated file in `dist` that ready to be served.
+And you will see the generated file in `dist` that ready to be served. 2022.3.4
